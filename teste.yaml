@@ -3,6 +3,4 @@
   tasks:
    - name: zuei
      package:
-     			 name: git
-lçsçjdsçok
-: 
+      name: git
